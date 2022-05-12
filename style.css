@@ -1,0 +1,71 @@
+
+body,html{
+	width: 100%;
+	height: 100%;
+	font-family: 'Varela Round', sans-serif;
+	  background: url(http://chomsky.soc.cornell.edu/~marty/plasma-turbulence-web-background.jpg) no-repeat center center fixed; 
+	  -webkit-background-size: cover;
+	  -moz-background-size: cover;
+	  -o-background-size: cover;
+	  background-size: cover;
+	  /*background-color: white;*/
+}
+
+
+h1{
+	font-size: 2rem;
+	font-weight: 2;
+	color:red;
+	text-decoration: underline;
+
+}
+h2{
+	font-size: 2rem;
+	font-weight: 2;
+	color: black;
+	text-decoration: underline;
+
+}
+
+
+.buffer{
+	height: 50px;
+}
+
+.btn{
+	font-weight: 2;
+	border-radius: 300px;
+	text-transform: uppercase;
+}
+
+.btn-primary{
+	background-color:red ;
+	border-color: black;
+}
+.btn-primary:hover{
+	background-color:black ;
+	border-color: black;
+	border-width: 2px;
+}
+
+.btn-xl{
+	padding: 0.5rem 3rem;
+}
+
+.navbar-dark .brand{
+	color: white;
+}
+.navbar-dark .brand:hover{
+	color: red;
+}
+.bg-dark{
+	background-color:black !important;
+	box-shadow: 1px 5px rgba(67,63,63,0.58);
+}
+
+
+
+
+
+
+
